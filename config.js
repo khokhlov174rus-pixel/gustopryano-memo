@@ -10,8 +10,8 @@ window.GAME_CONFIG = {
     // Настройки игры
     game: {
         title: "Собери все пары и получи подарок!",
-        winMessage: "Поздравляем с победой!<br>Дарим подарок: Орешек со сгущенкой по промокоду {PROMO_CODE}",
-        promoCode: "GAME",
+        winMessage: "Поздравляем с победой!<br>Дарим подарок: Морс по промокоду {PROMO_CODE}",
+        promoCode: "REWARD",
         restartButtonText: "Играть заново"
     },
     
